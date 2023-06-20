@@ -49,4 +49,4 @@ I recommend that we start using the cross-validate NB model to find Tico/Expat p
 
 By using this model we will be able to start creating a network of Expats that can assist us in advertising for tourist businesses.  Additionally, this will also reveal, to a greater extent, who the tourists are.  This will allow us to direct more marketing toward our target audience.  I recommend that we increase our social marketing campaign to greater increase our impact.  
 
-Additionally, Reedit is currently going through a period of adjustment that is making using an API difficult.  Once this period of adjustment is over, I recommend we pull more posts and use them to refine the model for greater accuracy.  
+Additionally, Reedit is currently going through a period of adjustment that is making using an API difficult.  Once this period of adjustment is over, I recommend we pull more posts and use them to refine the model for greater accuracy.  # Reddit-Submissions-ML
